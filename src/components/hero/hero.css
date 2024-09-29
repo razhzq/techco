@@ -1,0 +1,9 @@
+
+.it_solution_hero_content {
+    background-size: cover !important;
+    background-image: url('../../asset/port.jpg');
+}
+
+.it_solution_hero_content p {
+   color: rgb(223, 223, 223);
+}
